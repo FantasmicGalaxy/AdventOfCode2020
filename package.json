@@ -2,7 +2,7 @@
 	"name": "adventofcode2020",
 	"version": "1.0.0",
 	"description": "",
-	"main": "day2/index.js",
+	"main": "day3/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
