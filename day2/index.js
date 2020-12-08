@@ -1,5 +1,5 @@
-const fs = require('fs');
-const input = fs.readFileSync('day2/input.txt', 'utf8');
+const fs = require("fs");
+const input = fs.readFileSync("day2/input.txt", "utf8");
 
 let part1 = 0;
 let part2 = 0;
