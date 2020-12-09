@@ -2,7 +2,7 @@
 	"name": "adventofcode2020",
 	"version": "1.0.0",
 	"description": "",
-	"main": "day4/index.js",
+	"main": "day5/index.js",
 	"scripts": {
 		"newday": "mkdir 'day'$npm_package_config_day && cd 'day'$npm_package_config_day && touch input.txt index.js"
 	},
